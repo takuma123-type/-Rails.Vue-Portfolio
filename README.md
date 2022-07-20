@@ -16,7 +16,7 @@ TODOアプリ： <br>
  <br>
 # 開発環境： <br>
 プログラミング言語 (フロントエンド)  <br>
-HTML / CSS / JavaScript / TypeScript(Vue.js)  <br>
+HTML / CSS / JavaScript / TypeScript(React.js)  <br>
  <br>
 プログラミング言語 (サーバサイド) <br>
 Ruby(Rails) <br>
@@ -36,4 +36,5 @@ Docker <br>
 AWS <br>
  <br>
 # ＊＊＊モバイル版も開発予定＊＊＊ <br>
-現在勉強中 <br>
+Dart(Flutter)でやる予定 <br>
+ 余裕ができたら、Swiftも書きたい...!!!!<br>
